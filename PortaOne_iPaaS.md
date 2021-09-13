@@ -3,7 +3,7 @@ PortaOne iPaaS (Integration Platform as a Service) is a new provisioning solutio
 
 A container is a portable software unit where all the components of new functionality (code, runtime, system tools, system libraries and settings) are stored as one package. Containers are deployed in the cloud-based PortaOne iPaaS independently from the PortaSwitch® installation. As a result, they are easily modified and extended.
 
-To start using new features via the PortaOne iPaaS, subscribe to it. To find out about our subscription terms, contact our Sales department.
+To start using new features via the PortaOne iPaaS, subscribe to it. To find out about our subscription terms, contact our [Sales department](https://www.portaone.com/contacts).
 
 #### CPE provisioning via PortaOne iPaaS
 
