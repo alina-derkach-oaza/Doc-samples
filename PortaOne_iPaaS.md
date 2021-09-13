@@ -19,6 +19,8 @@ When an administrator creates a CPE profile for Yealink W80B, PortaBilling® que
 
 Then the administrator creates the Yealink W80B CPE device and assigns it to an account. PortaBilling® generates a configuration file with the CPE device parameters (username, password, device’s MAC address, etc.) and sends it to the CPE provisioning container. This configuration file is used in the CPE provisioning container to adjust Yealink W80B’s internal configuration.
 
+![Enable the Auto-provisioning option](https://github.com/oaza007/Doc-samples/blob/main/Images/Enable_the_auto_provisioning_option.png)
+
 Now Yealink W80B is ready to use by end users. 
 
 ##### Benefits
