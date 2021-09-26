@@ -12,6 +12,8 @@ Let’s say the ABC company uses the cloud PBX service via PortaPhone Web. The a
 
 Liza Green opens PortaPhone Web link in a browser. On the sign-up page, she enters her corporate phone number, e.g., 11115553322. PortaSwitch® sends Liza a verification code via email to authenticate Liza as an employee of ABC company and prevent service abuse. Liza enters the verification code and logs in to ABC corporate PortaPhone Web. Now, she can see her colleagues as contacts and call them. Liza opens the contact list and makes a video call to her colleague, Amy Adams.
 
+![Video_call](https://github.com/oaza007/Doc-samples/blob/main/Images/Video_call.png)
+
 PortaPhone Web supports such popular features as:
 * **Call recording** – end users can record their conversations, play the recordings and download them.
 
