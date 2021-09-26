@@ -24,6 +24,8 @@ PortaPhone Web supports such popular features as:
 * **Recent calls** – end users can look through the list of the last 10 calls and promptly call back. 
 * **Call history** – end users can look through the list of all incoming and outgoing calls, filter them by date, play or download the call recordings and make a new voice/video call to a specific contact.
 
+![Call_history](https://github.com/oaza007/Doc-samples/blob/main/Images/Call_history.png)
+
 Also, the PBX end users can edit their contact information, for example, the mobile phone number.
 
 ##### Benefits
